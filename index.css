@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(182, 178, 178);
+}
+h1{
+    font-size: 32px;
+    color: brown;
+}
+p{
+    font-size: 20px;
+}
+
+input{
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+button{
+    padding: 9px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgb(35, 224, 35);
+    transition: background-color 0.3s ease;
+}
+button:hover{
+    background-color: rgb(58, 235, 96);
+}
